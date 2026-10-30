@@ -1,0 +1,22 @@
+{
+  "version": "1.0.20",
+  "published": "2026-10-30T06:12:22+00:00",
+  "notes": "Use any AI key, fairer judging, and the mascot stays on top\n\n- Works with Anthropic, OpenAI, Google Gemini or OpenRouter keys. Balanced is now the default.\n- Fairer judging: it gives the benefit of the doubt when the work purpose is clear, allows research sites for study sessions, and can allow a tool like Slack for the whole session.\n- Asking for time: typing pauses the countdown, and after a no you get the full time again to add detail (up to 3 asks). It says what detail would get it approved.\n- Repeat warnings count down 5 seconds, longer if you've already explained.\n- The mascot no longer disappears behind other windows, and on Windows walks to the tab's real close button.\n- Mac: no longer gives up on a blocked tab when its address can't be read for a moment.\n- The app window no longer shows an old version's page after an update.",
+  "assets": {
+    "windows-x64": {
+      "file": "Moment-windows-x64.zip",
+      "size": 51385531,
+      "sha256": "00adc45765b30579bfb205c393a60973fdd72dae8db6749e7ef93d182bbc488f"
+    },
+    "macos-arm64": {
+      "file": "Moment-macos-arm64.zip",
+      "size": 45663809,
+      "sha256": "473a5cfb3e860f50fcbadb73af945f43453067ded2f96baf52ab14e8792824c1"
+    },
+    "macos-x64": {
+      "file": "Moment-macos-x64.zip",
+      "size": 46911905,
+      "sha256": "796c1b54c5b4f0fd0de87a4a8b4b4d8874fd47a2727657c972099468adbebba0"
+    }
+  }
+}
