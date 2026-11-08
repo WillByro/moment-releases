@@ -1,0 +1,22 @@
+{
+  "version": "1.0.24",
+  "published": "2026-11-08T20:36:40+00:00",
+  "notes": "Accountability becomes a beta feature, and saves each day's report as a file\n\nThe Accountability tab only appears once the beta code is entered in Settings (a new Beta section),\nand nothing is recorded or sent until then. Every report is now also saved to Documents/Kairos\nReports as a text file with To, Cc and Subject lines, so something else (a Claude task) can email\nit. When no way to send is set up, saving it counts as done rather than a failure.",
+  "assets": {
+    "windows-x64": {
+      "file": "Moment-windows-x64.zip",
+      "size": 52008955,
+      "sha256": "d19c449d2e73ee07b388fb2a80079784d953767657af38811e8c550cc5f96340"
+    },
+    "macos-arm64": {
+      "file": "Moment-macos-arm64.zip",
+      "size": 46363378,
+      "sha256": "d8bf211a2763f69baaa49f534643fb45e6a73d6a6982f0eb5f3324114fdeb5c6"
+    },
+    "macos-x64": {
+      "file": "Moment-macos-x64.zip",
+      "size": 47647572,
+      "sha256": "71255871660adc56ec241e4a4c60e306c0028342f0cff1663c868feab78ddece"
+    }
+  }
+}
